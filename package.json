@@ -1,0 +1,12 @@
+{
+  "name": "node-hid-example",
+  "version": "1.0.0",
+  "description": "HID client application example in Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "openid-client": "^3.7.3"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
